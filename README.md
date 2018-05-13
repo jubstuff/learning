@@ -1,2 +1,3 @@
-# learning-elixir
-Some Elixir tests
+# Learning Elixir
+
+Some Elixir tests.
