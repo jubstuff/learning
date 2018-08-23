@@ -1,0 +1,22 @@
+{
+  "name": "giustino/01-tip-calculator",
+  "description": "A simple tip calculator",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Giustino Borzacchiello",
+      "email": "giustinob@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "pds/skeleton": "^1.0",
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "psr-4": { "Jubstuff\\TipCalculator\\": "src/" }
+  },
+  "autoload-dev": {
+    "psr-4": { "Jubstuff\\TipCalculator\\Tests\\": "tests/" }
+  }
+}
